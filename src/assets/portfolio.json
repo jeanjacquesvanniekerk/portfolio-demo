@@ -1,0 +1,6 @@
+[
+  { "id": 1, "category": "Risk Rating", "value": "Aggressive" },
+  { "id": 2, "category": "Portfolio Management", "value": "Active" },
+  { "id": 3, "category": "Risk factor", "value": "mild" },
+  { "id": 4, "category": "Investment Appetite", "value": "conservative" }
+]
